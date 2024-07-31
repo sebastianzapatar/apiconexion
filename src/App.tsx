@@ -4,8 +4,10 @@ function App() {
   
 
   return (
-   
-    <ShowQuote/>
+    <>
+      <h1>I am the best fucking menu in the world</h1>
+      <ShowQuote/>
+    </>
   )
 }
 
